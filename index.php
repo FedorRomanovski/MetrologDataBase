@@ -7,7 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-<<h1>Метролог</h1>
-
-</body>
+<h1>Метролог</h1>
+<?php echo "string"; ?>
 </html>
